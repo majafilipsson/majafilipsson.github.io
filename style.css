@@ -1,13 +1,17 @@
+body {
+  background-color: #f5f5f5
+}
+
 h1 {
   color: #FFFFFF;
   text-shadow: -1px 0 0 #000000, 1px 1px 0 #000000,
                 2px -1px 0 #000000, 3px 0 0 #000000;
-  font-family: verdana, arial; 
+  font-family: castellar, roboto, ubuntu, indie flower, verdana, arial; 
   text-align: center;
 }
 
 p {
- font-family: verdana, arial; 
+ font-family: ubuntu, Indie Flower, verdana, arial; 
  text-align: center;
 }
 
