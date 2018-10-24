@@ -16,11 +16,15 @@ p {
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 8px;
   border: 1px solid #ddd;
   padding: 5px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 150px;
+}
+
+.profile img {
+  border-radius: 50%;
 }
