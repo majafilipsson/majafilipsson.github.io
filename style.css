@@ -2,4 +2,11 @@ h1 {
   color: #FFFFFF;
   text-shadow: -1px 0 0 #000000, 1px 1px 0 #000000,
                 2px -1px 0 #000000, 3px 0 0 #000000;
+  text-family: verdana, arial; 
+  text-align: center;
+}
+
+p {
+ text-family: verdana, arial; 
+ text-align: center;
 }
