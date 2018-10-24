@@ -10,3 +10,13 @@ p {
  text-family: verdana, arial; 
  text-align: center;
 }
+
+img {
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
